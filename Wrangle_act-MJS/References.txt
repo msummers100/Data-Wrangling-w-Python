@@ -1,0 +1,6 @@
+https://www.geeksforgeeks.org/how-to-rename-columns-in-pandas-dataframe/
+https://knowledge.udacity.com/questions/170660
+https://www.geeksforgeeks.org/pandas-parsing-json-dataset/
+https://stackoverflow.com/questions/21058935/python-json-loads-shows-valueerror-extra-data/51830719
+https://en.wikipedia.org/wiki/WeRateDogs
+https://www.theverge.com/2015/11/3/9661180/twitter-vine-favorite-fav-likes-hearts
